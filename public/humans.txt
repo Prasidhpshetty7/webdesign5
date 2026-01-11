@@ -1,0 +1,43 @@
+____  ____  ____
+|  _ \|  _ \/ ___|
+| |_) | |_) \___ \
+|  __/|  __/ ___) |
+|_|   |_|   |____/
+
+The humans.txt file explains the team, technology,
+and graphic assets behind this site humanstxt.org.
+
+_______________________________________________________________________________
+
+DEVELOPER | デベロッパー
+
+Prasidh P Shetty
+Web Designer & Full-Stack Developer
+
+Design & Development tools:
+VS Code
+Figma
+React
+Node.js
+
+github.com/Prasidhpshetty7
+linkedin.com/in/prasidh-shetty7
+x.com/ShettyPrasidh7
+
+_______________________________________________________________________________
+
+TECHNOLOGY | テクノロジー
+
+React
+Remix
+Three.js
+Framer Motion
+Node.js
+
+_______________________________________________________________________________
+
+FONTS | フォント
+
+Gotham
+IPA Gothic Regular
+Hiragino Kaku Gothic W8

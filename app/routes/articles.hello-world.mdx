@@ -1,0 +1,60 @@
+---
+title: 'Hello world: how I built this site'
+abstract: I built this portfolio site in 2024, and since then it has evolved quite a bit. I wanted to create something unique that showcases my skills as a web designer and full-stack developer.
+date: '2024-08-15'
+banner: /static/hello-world-banner.jpg
+---
+
+## How it all started
+
+Back in 2023 I decided to build my portfolio site from scratch. As a web designer and developer, I wanted something that would stand out and showcase my technical abilities. I thought I would steer away from typical portfolio templates and build a site that tapped into a modern, dark aesthetic with smooth animations. The genre contains some of my favorite movies like Ghost in the Shell (1995), The Matrix (1999), and Akira (1988). That is where I borrowed visual motifs like the bold lettering on the homepage and the text decoding effect as a homage to the Matrix's "Digital rain" effect, which was itself inspired by Ghost in the Shell's opening credits. There is even a custom 404 page with a unique animation.
+
+![A scene showing futuristic UI design inspiration](/static/inspiration.png)
+
+## The first iteration
+
+I was deepening my React knowledge when I first built this website, and while it might seem overkill for a personal portfolio site, it was a great opportunity to learn and experiment. I have found the best way to learn is by actually making something that you intend to use and ship.
+
+I started with Create React App to get things up and running quickly. On top of that, I was using CSS Modules, Framer Motion for animations, and React Transition Group. I was also experimenting with Three.js effects like the displacement sphere that still resides on the homepage.
+
+Since then I have used this website as a playground for experimenting with new tech and techniques, so over time I have overhauled pretty much everything. A big change along the way was adding real-time rendered interactive 3D devices to showcase my projects in a more engaging way.
+
+![Thumbnail showing 3D mockups](/static/clay-mockups.png)
+
+## Building with modern tools
+
+For this version of the site, I chose to use Remix as the framework. It provides excellent support for server-side rendering and has a great developer experience. Here is what the tech stack looks like:
+
+- The site is built with Remix and React, providing fast page loads and smooth navigation.
+- Styling is done with vanilla CSS using PostCSS for modern CSS features like nesting and custom media queries. I use CSS modules to avoid style conflicts.
+- For the blog and articles, I use MDX which allows me to write content in Markdown with React components.
+- Animation is handled by Framer Motion and CSS transitions for smooth, performant effects.
+- 3D effects are powered by Three.js, including the interactive Earth model and device mockups.
+
+## Challenges along the way
+
+Building this site was not without its challenges. Here are some of the problems I encountered:
+
+### 1. Route transitions
+
+Getting smooth page transitions working required some careful handling. The CSS View Transitions API made this much easier, allowing for smooth crossfading between pages without complex JavaScript hacks.
+
+### 2. Performance optimization
+
+With all the 3D elements and animations, I had to be careful about performance. Lazy loading components, optimizing images, and using efficient animation techniques helped keep the site fast.
+
+### 3. Responsive design
+
+Making sure the 3D elements and complex layouts worked well on mobile devices took some iteration. I used CSS custom properties and media queries to adapt the design across different screen sizes.
+
+## Looking forward
+
+I am proud of how this portfolio has turned out. It represents my journey as a developer and showcases the skills I have built over the years. I plan to continue using this site as a playground for experimenting with new technologies and techniques.
+
+The site is open source, and I hope others can learn from it and adapt it to their own style. That is what the web should be about - sharing knowledge and building on each other's work.
+
+## Update: January 2025
+
+I recently made some updates to the site, including refreshing the project showcases and improving the contact form. I also added new social links and updated the design in a few places. The site continues to evolve as I learn new things and find better ways to do things.
+
+I am really happy with how Remix has worked out as the framework choice. It handles routing, data loading, and server-side rendering elegantly. I would definitely recommend it for anyone building a similar project.

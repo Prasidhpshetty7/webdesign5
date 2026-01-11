@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
+  <defs>
+    <symbol id="katakana-project" viewBox="0 0 751 136">
+      <!-- PROJECTS text -->
+      <text x="0" y="100" font-family="Arial, sans-serif" font-size="120" font-weight="bold" fill="currentColor">PROJECTS</text>
+    </symbol>
+    <symbol id="katakana-profile" viewBox="0 0 136 766">
+      <!-- MY WORK vertical text -->
+      <text x="68" y="100" font-family="Arial, sans-serif" font-size="90" font-weight="bold" fill="currentColor" text-anchor="middle">M</text>
+      <text x="68" y="200" font-family="Arial, sans-serif" font-size="90" font-weight="bold" fill="currentColor" text-anchor="middle">Y</text>
+      <text x="68" y="340" font-family="Arial, sans-serif" font-size="90" font-weight="bold" fill="currentColor" text-anchor="middle">W</text>
+      <text x="68" y="440" font-family="Arial, sans-serif" font-size="90" font-weight="bold" fill="currentColor" text-anchor="middle">O</text>
+      <text x="68" y="540" font-family="Arial, sans-serif" font-size="90" font-weight="bold" fill="currentColor" text-anchor="middle">R</text>
+      <text x="68" y="640" font-family="Arial, sans-serif" font-size="90" font-weight="bold" fill="currentColor" text-anchor="middle">K</text>
+    </symbol>
+  </defs>
+</svg>
