@@ -75,8 +75,8 @@ export const SmartSparrow = () => {
                 The frontend is built with React and Remix, utilizing CSS Modules for scoped
                 styling and PostCSS for advanced CSS features. Three.js powers the 3D graphics
                 and WebGL rendering for the interactive Earth model. The site uses Vite as the
-                build tool for fast development and optimized production builds. Cloudflare
-                Pages handles hosting with edge-side rendering for lightning-fast load times.
+                build tool for fast development and optimized production builds. Vercel
+                handles hosting with edge-side rendering for lightning-fast load times.
               </ProjectSectionText>
             </ProjectTextRow>
           </ProjectSectionContent>
