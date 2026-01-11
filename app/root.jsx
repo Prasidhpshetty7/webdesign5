@@ -65,7 +65,7 @@ export const loader = async ({ request }) => {
   });
 
   const session = await getSession(request.headers.get('Cookie'));
-  const theme = session.get('theme') || 'dark';
+  const theme = session.get('theme') || 'light';
 
   return json(
     { canonicalUrl, theme },
@@ -152,7 +152,7 @@ export function ErrorBoundary() {
         <Meta />
         <Links />
       </head>
-      <body data-theme="dark">
+      <body data-theme="light">
         <Error error={error} />
         <ScrollRestoration />
         <Scripts />
