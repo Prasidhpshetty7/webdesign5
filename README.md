@@ -14,9 +14,7 @@ Built with a **vibe coding** approach, emphasizing creativity, iteration, and ha
 ## How to Run
 Open the `index.html` file in your browser to view the project.
 
-<p align="center">
-  <img src="/public/favicon.svg" width="50" alt="Logo" />
-</p>
+
 <h1 align="center">Personal portfolio</h1>
 
 [![Site preview](/public/site-preview.png)](https://5.prasidhshetty.in)
