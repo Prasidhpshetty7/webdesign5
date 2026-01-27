@@ -15,10 +15,6 @@ Built with a **vibe coding** approach, emphasizing creativity, iteration, and ha
 Open the `index.html` file in your browser to view the project.
 
 
-<h1 align="center">Personal portfolio</h1>
-
-[![Site preview](/public/site-preview.png)](https://5.prasidhshetty.in)
-
 My design portfolio to showcase a few projects. Built with [Remix](https://remix.run/), [Three.js](https://threejs.org/), and [Framer Motion](https://www.framer.com/motion/). View the [live site](https://5.prasidhshetty.in) or check out a live version of the [components storybook](https://storybook.5.prasidhshetty.in).
 
 ## Install & run
